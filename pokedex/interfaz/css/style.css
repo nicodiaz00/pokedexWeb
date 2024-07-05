@@ -1,0 +1,26 @@
+﻿body {
+    background-color: #686D76;
+}
+.custom-nav {
+    background-color: #f8f9fa;
+    color: #343a40;
+    padding: 1rem;
+}
+.filaUno {
+    background-color: #373A40;
+    height:130px;
+    padding:20px;
+}
+footer {
+    background-color: #DC5F00;
+}
+.caja {
+    
+    font-size:50px;
+}
+    .caja h1 {
+        font-size: 80px; /* Tamaño de fuente */
+        color: #EEEEEE; /* Color del texto */
+        margin: 0; /* Elimina el margen por defecto */
+        text-align: center; /* Centra el texto dentro del h1 */
+    }
