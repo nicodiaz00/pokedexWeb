@@ -24,3 +24,7 @@ footer {
         margin: 0; /* Elimina el margen por defecto */
         text-align: center; /* Centra el texto dentro del h1 */
     }
+
+    .tarjetita{
+        font:200px
+    }
